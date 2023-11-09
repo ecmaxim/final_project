@@ -1,0 +1,348 @@
+route,booking_origin,fail,departure_air,arriving_air,departure_country,arriving_country
+MELSGN,697,697,MEL,SGN,Australia,Vietnam
+DMKOOL,521,521,DMK,OOL,Thailand,Australia
+DMKPER,515,515,DMK,PER,Thailand,Australia
+SGNSYD,485,485,SGN,SYD,Vietnam,Australia
+COKSYD,442,442,COK,SYD,India,Australia
+CMBMEL,411,411,CMB,MEL,Sri Lanka,Australia
+COKMEL,394,394,COK,MEL,India,Australia
+DMKSYD,361,361,DMK,SYD,Thailand,Australia
+PERSGN,307,307,PER,SGN,Australia,Vietnam
+COKPER,305,305,COK,PER,India,Australia
+HKTSYD,302,302,HKT,SYD,Thailand,Australia
+MELPEN,290,290,MEL,PEN,Australia,Malaysia
+CMBSYD,287,287,CMB,SYD,Sri Lanka,Australia
+HKTPER,285,285,HKT,PER,Thailand,Australia
+MELTPE,280,280,MEL,TPE,Australia,Taiwan
+ICNSYD,255,255,ICN,SYD,South Korea,Australia
+DMKMEL,245,245,DMK,MEL,Thailand,Australia
+HKTOOL,233,233,HKT,OOL,Thailand,Australia
+OOLSGN,231,231,OOL,SGN,Australia,Vietnam
+PERTPE,209,209,PER,TPE,Australia,Taiwan
+HKTMEL,204,204,HKT,MEL,Thailand,Australia
+PENPER,198,198,PEN,PER,Malaysia,Australia
+HNDPER,193,193,HND,PER,Japan,Australia
+HYDSYD,183,183,HYD,SYD,India,Australia
+PERPNH,182,182,PER,PNH,Australia,Cambodia
+DELMEL,180,180,DEL,MEL,India,Australia
+PENSYD,174,174,PEN,SYD,Malaysia,Australia
+ICNPER,171,171,ICN,PER,South Korea,Australia
+DACSYD,162,162,DAC,SYD,Bangladesh,Australia
+ICNMEL,154,154,ICN,MEL,South Korea,Australia
+COKOOL,147,147,COK,OOL,India,Australia
+MELMNL,133,133,MEL,MNL,Australia,Philippines
+CMBPER,132,132,CMB,PER,Sri Lanka,Australia
+DELSYD,128,128,DEL,SYD,India,Australia
+OOLPNH,126,126,OOL,PNH,Australia,Cambodia
+DPSSYD,120,120,DPS,SYD,Indonesia,Australia
+HYDPER,119,119,HYD,PER,India,Australia
+DPSMEL,118,118,DPS,MEL,Indonesia,Australia
+SYDTRZ,118,118,SYD,TRZ,Australia,India
+CMBOOL,115,115,CMB,OOL,Sri Lanka,Australia
+MAAPER,113,113,MAA,PER,India,Australia
+HYDMEL,110,110,HYD,MEL,India,Australia
+ICNOOL,108,108,ICN,OOL,South Korea,Australia
+MAASYD,105,105,MAA,SYD,India,Australia
+HKGPER,103,103,HKG,PER,Hong Kong,Australia
+PNHSYD,99,99,PNH,SYD,Cambodia,Australia
+SYDTPE,95,95,SYD,TPE,Australia,Taiwan
+KCHPER,95,95,KCH,PER,Malaysia,Australia
+MNLPER,95,95,MNL,PER,Philippines,Australia
+OOLPEN,92,92,OOL,PEN,Australia,Malaysia
+MELPNH,91,91,MEL,PNH,Australia,Cambodia
+DELPER,89,89,DEL,PER,India,Australia
+IKASYD,88,88,IKA,SYD,Iran,Australia
+MELTRZ,87,87,MEL,TRZ,Australia,India
+MAAMEL,84,84,MAA,MEL,India,Australia
+CGKSYD,84,84,CGK,SYD,Indonesia,Australia
+KCHMEL,83,83,KCH,MEL,Malaysia,Australia
+LGKPER,79,79,LGK,PER,Malaysia,Australia
+CNXPER,78,78,CNX,PER,Thailand,Australia
+CEBMEL,73,73,CEB,MEL,Philippines,Australia
+CCUSYD,71,71,CCU,SYD,India,Australia
+IKAOOL,70,70,IKA,OOL,Iran,Australia
+CEBOOL,68,68,CEB,OOL,Philippines,Australia
+DACMEL,68,68,DAC,MEL,Bangladesh,Australia
+KIXPER,68,68,KIX,PER,Japan,Australia
+CGKMEL,66,66,CGK,MEL,Indonesia,Australia
+KNOSYD,65,65,KNO,SYD,Indonesia,Australia
+HKGSYD,64,64,HKG,SYD,Hong Kong,Australia
+IKAMEL,63,63,IKA,MEL,Iran,Australia
+CNXOOL,62,62,CNX,OOL,Thailand,Australia
+MELMRU,62,62,MEL,MRU,Australia,Mauritius
+IKAPER,62,62,IKA,PER,Iran,Australia
+MELPVG,60,60,MEL,PVG,Australia,China
+BLRSYD,58,58,BLR,SYD,India,Australia
+MELRGN,58,58,MEL,RGN,Australia,Myanmar (Burma)
+DADMEL,57,57,DAD,MEL,Vietnam,Australia
+HANOOL,55,55,HAN,OOL,Vietnam,Australia
+CCUMEL,55,55,CCU,MEL,India,Australia
+HKGMEL,55,55,HKG,MEL,Hong Kong,Australia
+BKIPER,54,54,BKI,PER,Malaysia,Australia
+PERTRZ,53,53,PER,TRZ,Australia,India
+OOLTPE,52,52,OOL,TPE,Australia,Taiwan
+MELREP,52,52,MEL,REP,Australia,Cambodia
+KTMMEL,51,51,KTM,MEL,Nepal,Australia
+MELPEK,49,49,MEL,PEK,Australia,China
+MNLSYD,49,49,MNL,SYD,Philippines,Australia
+PEKSYD,49,49,PEK,SYD,China,Australia
+MELSBW,48,48,MEL,SBW,Australia,Malaysia
+BLRPER,48,48,BLR,PER,India,Australia
+PERRGN,47,47,PER,RGN,Australia,Myanmar (Burma)
+CANPER,47,47,CAN,PER,China,Australia
+HNDMEL,46,46,HND,MEL,Japan,Australia
+BKIMEL,45,45,BKI,MEL,Malaysia,Australia
+MELVTZ,45,45,MEL,VTZ,Australia,India
+BKIOOL,44,44,BKI,OOL,Malaysia,Australia
+MELSIN,43,43,MEL,SIN,Australia,Singapore
+REPSYD,42,42,REP,SYD,Cambodia,Australia
+PERPUS,41,41,PER,PUS,Australia,South Korea
+CNXMEL,41,41,CNX,MEL,Thailand,Australia
+KNOPER,41,41,KNO,PER,Indonesia,Australia
+HKGOOL,41,41,HKG,OOL,Hong Kong,Australia
+CRKOOL,41,41,CRK,OOL,Philippines,Australia
+DADOOL,41,41,DAD,OOL,Vietnam,Australia
+KTMSYD,41,41,KTM,SYD,Nepal,Australia
+KBVPER,40,40,KBV,PER,Thailand,Australia
+KIXMEL,40,40,KIX,MEL,Japan,Australia
+RGNSYD,38,38,RGN,SYD,Myanmar (Burma),Australia
+BKISYD,38,38,BKI,SYD,Malaysia,Australia
+CCUPER,38,38,CCU,PER,India,Australia
+BLRMEL,36,36,BLR,MEL,India,Australia
+OOLREP,36,36,OOL,REP,Australia,Cambodia
+CNXSYD,36,36,CNX,SYD,Thailand,Australia
+PVGSYD,36,36,PVG,SYD,China,Australia
+MYYPER,35,35,MYY,PER,Malaysia,Australia
+LGKSYD,35,35,LGK,SYD,Malaysia,Australia
+KTMPER,34,34,KTM,PER,Nepal,Australia
+PERUTP,34,34,PER,UTP,Australia,Thailand
+PERPVG,33,33,PER,PVG,Australia,China
+MAAOOL,33,33,MAA,OOL,India,Australia
+PUSSYD,32,32,PUS,SYD,South Korea,Australia
+DPSOOL,32,32,DPS,OOL,Indonesia,Australia
+LGKMEL,32,32,LGK,MEL,Malaysia,Australia
+MNLOOL,32,32,MNL,OOL,Philippines,Australia
+KCHOOL,32,32,KCH,OOL,Malaysia,Australia
+DADSYD,31,31,DAD,SYD,Vietnam,Australia
+CGKPER,31,31,CGK,PER,Indonesia,Australia
+SINSYD,30,30,SIN,SYD,Singapore,Australia
+KNOOOL,29,29,KNO,OOL,Indonesia,Australia
+KCHSYD,29,29,KCH,SYD,Malaysia,Australia
+KNOMEL,28,28,KNO,MEL,Indonesia,Australia
+DACPER,28,28,DAC,PER,Bangladesh,Australia
+PERVTZ,28,28,PER,VTZ,Australia,India
+KIXSYD,27,27,KIX,SYD,Japan,Australia
+HYDOOL,27,27,HYD,OOL,India,Australia
+CGKOOL,26,26,CGK,OOL,Indonesia,Australia
+HANPER,25,25,HAN,PER,Vietnam,Australia
+DELOOL,25,25,DEL,OOL,India,Australia
+HANSYD,25,25,HAN,SYD,Vietnam,Australia
+CANSYD,24,24,CAN,SYD,China,Australia
+PERREP,24,24,PER,REP,Australia,Cambodia
+KBVSYD,23,23,KBV,SYD,Thailand,Australia
+KIXOOL,23,23,KIX,OOL,Japan,Australia
+KLOMEL,23,23,KLO,MEL,Philippines,Australia
+KBVOOL,23,23,KBV,OOL,Thailand,Australia
+DACOOL,22,22,DAC,OOL,Bangladesh,Australia
+HNDSYD,22,22,HND,SYD,Japan,Australia
+PERSBW,22,22,PER,SBW,Australia,Malaysia
+OOLPUS,22,22,OOL,PUS,Australia,South Korea
+MELPUS,21,21,MEL,PUS,Australia,South Korea
+BWNPER,21,21,BWN,PER,Brunei,Australia
+CCUOOL,21,21,CCU,OOL,India,Australia
+KBVMEL,21,21,KBV,MEL,Thailand,Australia
+JHBMEL,20,20,JHB,MEL,Malaysia,Australia
+BDOSYD,19,19,BDO,SYD,Indonesia,Australia
+CRKMEL,19,19,CRK,MEL,Philippines,Australia
+OOLRGN,19,19,OOL,RGN,Australia,Myanmar (Burma)
+BTUPER,18,18,BTU,PER,Malaysia,Australia
+OOLSIN,17,17,OOL,SIN,Australia,Singapore
+CANMEL,17,17,CAN,MEL,China,Australia
+GOIPER,17,17,GOI,PER,India,Australia
+MRUPER,17,17,MRU,PER,Mauritius,Australia
+CTUPER,17,17,CTU,PER,China,Australia
+PERSZX,16,16,PER,SZX,Australia,China
+OOLPEK,16,16,OOL,PEK,Australia,China
+PEKPER,15,15,PEK,PER,China,Australia
+MFMPER,15,15,MFM,PER,China,Australia
+OOLPVG,15,15,OOL,PVG,Australia,China
+KBRMEL,14,14,KBR,MEL,Malaysia,Australia
+LGKOOL,14,14,LGK,OOL,Malaysia,Australia
+MRUSYD,14,14,MRU,SYD,Mauritius,Australia
+AKLKUL,14,14,AKL,KUL,New Zealand,Malaysia
+CTSPER,14,14,CTS,PER,Japan,Australia
+SBWSYD,14,14,SBW,SYD,Malaysia,Australia
+HANMEL,14,14,HAN,MEL,Vietnam,Australia
+PERSIN,14,14,PER,SIN,Australia,Singapore
+OOLTRZ,14,14,OOL,TRZ,Australia,India
+MELXIY,13,13,MEL,XIY,Australia,China
+OOLVTE,13,13,OOL,VTE,Australia,Laos
+MLEPER,13,13,MLE,PER,Maledives,Australia
+CTUMEL,13,13,CTU,MEL,China,Australia
+OOLURT,13,13,OOL,URT,Australia,Thailand
+HGHMEL,12,12,HGH,MEL,China,Australia
+KLOOOL,12,12,KLO,OOL,Philippines,Australia
+MYYSYD,12,12,MYY,SYD,Malaysia,Australia
+MELSUB,12,12,MEL,SUB,Australia,Indonesia
+JOGSYD,12,12,JOG,SYD,Indonesia,Australia
+GOIMEL,11,11,GOI,MEL,India,Australia
+BDOMEL,11,11,BDO,MEL,Indonesia,Australia
+MELMYY,11,11,MEL,MYY,Australia,Malaysia
+BOMSYD,11,11,BOM,SYD,India,Australia
+BDOPER,11,11,BDO,PER,Indonesia,Australia
+CTUSYD,10,10,CTU,SYD,China,Australia
+MELURT,10,10,MEL,URT,Australia,Thailand
+AORMEL,10,10,AOR,MEL,Malaysia,Australia
+GOIOOL,10,10,GOI,OOL,India,Australia
+OOLSBW,10,10,OOL,SBW,Australia,Malaysia
+CTSSYD,9,9,CTS,SYD,Japan,Australia
+PERXIY,9,9,PER,XIY,Australia,China
+MRUOOL,9,9,MRU,OOL,Mauritius,Australia
+MELMLE,9,9,MEL,MLE,Australia,Maledives
+CTUOOL,9,9,CTU,OOL,China,Australia
+JOGMEL,9,9,JOG,MEL,Indonesia,Australia
+OOLSZX,9,9,OOL,SZX,Australia,China
+SUBSYD,8,8,SUB,SYD,Indonesia,Australia
+KHHMEL,8,8,KHH,MEL,Taiwan,Australia
+JHBSYD,8,8,JHB,SYD,Malaysia,Australia
+MELTWU,7,7,MEL,TWU,Australia,Malaysia
+HGHPER,7,7,HGH,PER,China,Australia
+CANOOL,7,7,CAN,OOL,China,Australia
+CEBPER,7,7,CEB,PER,Philippines,Australia
+CEBSYD,7,7,CEB,SYD,Philippines,Australia
+GOISYD,7,7,GOI,SYD,India,Australia
+LOPPER,7,7,LOP,PER,Indonesia,Australia
+BDOOOL,7,7,BDO,OOL,Indonesia,Australia
+PERTWU,7,7,PER,TWU,Australia,Malaysia
+CTSOOL,7,7,CTS,OOL,Japan,Australia
+BWNOOL,7,7,BWN,OOL,Brunei,Australia
+SYDTWU,7,7,SYD,TWU,Australia,Malaysia
+BBISYD,7,7,BBI,SYD,India,Australia
+JOGOOL,7,7,JOG,OOL,Indonesia,Australia
+DPSICN,6,6,DPS,ICN,Indonesia,South Korea
+HGHSYD,6,6,HGH,SYD,China,Australia
+KBRSYD,6,6,KBR,SYD,Malaysia,Australia
+PERSDK,6,6,PER,SDK,Australia,Malaysia
+BOMPER,6,6,BOM,PER,India,Australia
+HGHOOL,6,6,HGH,OOL,China,Australia
+KLOSYD,5,5,KLO,SYD,Philippines,Australia
+DPSKTM,5,5,DPS,KTM,Indonesia,Nepal
+KWLPER,5,5,KWL,PER,China,Australia
+BOMMEL,5,5,BOM,MEL,India,Australia
+OOLSUB,5,5,OOL,SUB,Australia,Indonesia
+OOLTGG,5,5,OOL,TGG,Australia,Malaysia
+CRKSYD,5,5,CRK,SYD,Philippines,Australia
+KBROOL,4,4,KBR,OOL,Malaysia,Australia
+MELUTP,4,4,MEL,UTP,Australia,Thailand
+HNDOOL,4,4,HND,OOL,Japan,Australia
+KBRPER,4,4,KBR,PER,Malaysia,Australia
+SYDSZX,4,4,SYD,SZX,Australia,China
+OOLUTP,4,4,OOL,UTP,Australia,Thailand
+BWNSYD,4,4,BWN,SYD,Brunei,Australia
+MELMFM,4,4,MEL,MFM,Australia,China
+KHHSYD,4,4,KHH,SYD,Taiwan,Australia
+DPSPUS,4,4,DPS,PUS,Indonesia,South Korea
+MYYOOL,4,4,MYY,OOL,Malaysia,Australia
+HDYMEL,4,4,HDY,MEL,Thailand,Australia
+HDYPER,4,4,HDY,PER,Thailand,Australia
+LOPSYD,4,4,LOP,SYD,Indonesia,Australia
+HKTICN,4,4,HKT,ICN,Thailand,South Korea
+MFMSYD,4,4,MFM,SYD,China,Australia
+CKGPER,4,4,CKG,PER,China,Australia
+MFMOOL,4,4,MFM,OOL,China,Australia
+CKGSYD,4,4,CKG,SYD,China,Australia
+MLESYD,3,3,MLE,SYD,Maledives,Australia
+OOLXIY,3,3,OOL,XIY,Australia,China
+SYDVTE,3,3,SYD,VTE,Australia,Laos
+OOLSDK,3,3,OOL,SDK,Australia,Malaysia
+SYDXIY,3,3,SYD,XIY,Australia,China
+MELTGG,3,3,MEL,TGG,Australia,Malaysia
+LBUPER,3,3,LBU,PER,Malaysia,Australia
+DELDPS,3,3,DEL,DPS,India,Indonesia
+CTSMEL,3,3,CTS,MEL,Japan,Australia
+DPSPVG,3,3,DPS,PVG,Indonesia,China
+HDYSYD,3,3,HDY,SYD,Thailand,Australia
+ICNSIN,3,3,ICN,SIN,South Korea,Singapore
+JOGPER,3,3,JOG,PER,Indonesia,Australia
+KHHPER,3,3,KHH,PER,Taiwan,Australia
+KOSOOL,3,3,KOS,OOL,Cambodia,Australia
+KTMSIN,3,3,KTM,SIN,Nepal,Singapore
+CKGOOL,3,3,CKG,OOL,China,Australia
+BKIICN,3,3,BKI,ICN,Malaysia,South Korea
+MLEOOL,2,2,MLE,OOL,Maledives,Australia
+CSXPER,2,2,CSX,PER,China,Australia
+PERWUH,2,2,PER,WUH,Australia,China
+BOMOOL,2,2,BOM,OOL,India,Australia
+BBIOOL,2,2,BBI,OOL,India,Australia
+JHBOOL,2,2,JHB,OOL,Malaysia,Australia
+PERSUB,2,2,PER,SUB,Australia,Indonesia
+LPQOOL,2,2,LPQ,OOL,Laos,Australia
+GOIKUL,2,2,GOI,KUL,India,Malaysia
+CKGMEL,2,2,CKG,MEL,China,Australia
+PENTPE,2,2,PEN,TPE,Malaysia,Taiwan
+SYDVTZ,2,2,SYD,VTZ,Australia,India
+BWNMEL,2,2,BWN,MEL,Brunei,Australia
+DMKKIX,2,2,DMK,KIX,Thailand,Japan
+LPQMEL,2,2,LPQ,MEL,Laos,Australia
+BTUICN,2,2,BTU,ICN,Malaysia,South Korea
+CTUDPS,1,1,CTU,DPS,China,Indonesia
+CTUKNO,1,1,CTU,KNO,China,Indonesia
+CTUSIN,1,1,CTU,SIN,China,Singapore
+CTSSBW,1,1,CTS,SBW,Japan,Malaysia
+BBIMEL,1,1,BBI,MEL,India,Australia
+CTSDMK,1,1,CTS,DMK,Japan,Thailand
+CSXSYD,1,1,CSX,SYD,China,Australia
+SUBTPE,1,1,SUB,TPE,Indonesia,Taiwan
+CMBMRU,1,1,CMB,MRU,Sri Lanka,Mauritius
+PERVTE,1,1,PER,VTE,Australia,Laos
+CNXHND,1,1,CNX,HND,Thailand,Japan
+CMBKIX,1,1,CMB,KIX,Sri Lanka,Japan
+PUSRGN,1,1,PUS,RGN,South Korea,Myanmar (Burma)
+CMBCTS,1,1,CMB,CTS,Sri Lanka,Japan
+BKIKIX,1,1,BKI,KIX,Malaysia,Japan
+DELSUB,1,1,DEL,SUB,India,Indonesia
+CGKIKA,1,1,CGK,IKA,Indonesia,Iran
+CGKHND,1,1,CGK,HND,Indonesia,Japan
+SBWTPE,1,1,SBW,TPE,Malaysia,Taiwan
+SDKSYD,1,1,SDK,SYD,Malaysia,Australia
+CANDEL,1,1,CAN,DEL,China,India
+SINXIY,1,1,SIN,XIY,Singapore,China
+DELHND,1,1,DEL,HND,India,Japan
+DPSHND,1,1,DPS,HND,Indonesia,Japan
+DMKHND,1,1,DMK,HND,Thailand,Japan
+AKLTPE,1,1,AKL,TPE,New Zealand,Taiwan
+KHHOOL,1,1,KHH,OOL,Taiwan,Australia
+NRTSYD,1,1,NRT,SYD,Japan,Australia
+KIXMAA,1,1,KIX,MAA,Japan,India
+MYYPUS,1,1,MYY,PUS,Malaysia,South Korea
+KIXSGN,1,1,KIX,SGN,Japan,Vietnam
+KNOTPE,1,1,KNO,TPE,Indonesia,Taiwan
+KOSMEL,1,1,KOS,MEL,Cambodia,Australia
+KTMMFM,1,1,KTM,MFM,Nepal,China
+LGKPVG,1,1,LGK,PVG,Malaysia,China
+LOPOOL,1,1,LOP,OOL,Indonesia,Australia
+LPQPER,1,1,LPQ,PER,Laos,Australia
+MAATPE,1,1,MAA,TPE,India,Taiwan
+MELSWA,1,1,MEL,SWA,Australia,China
+MELWUH,1,1,MEL,WUH,Australia,China
+MELSZX,1,1,MEL,SZX,Australia,China
+KCHPEK,1,1,KCH,PEK,Malaysia,China
+ICNPEN,1,1,ICN,PEN,South Korea,Malaysia
+DMKIKA,1,1,DMK,IKA,Thailand,Iran
+ICNJHB,1,1,ICN,JHB,South Korea,Malaysia
+PENXIY,1,1,PEN,XIY,Malaysia,China
+DMKTPE,1,1,DMK,TPE,Thailand,Taiwan
+PENPVG,1,1,PEN,PVG,Malaysia,China
+MELVTE,1,1,MEL,VTE,Australia,Laos
+DPSIKA,1,1,DPS,IKA,Indonesia,Iran
+DPSKIX,1,1,DPS,KIX,Indonesia,Japan
+DPSPEK,1,1,DPS,PEK,Indonesia,China
+DPSTPE,1,1,DPS,TPE,Indonesia,Taiwan
+DPSWUH,1,1,DPS,WUH,Indonesia,China
+OOLTWU,1,1,OOL,TWU,Australia,Malaysia
+HKGIKA,1,1,HKG,IKA,Hong Kong,Iran
+HKTPEK,1,1,HKT,PEK,Thailand,China
+HKTPVG,1,1,HKT,PVG,Thailand,China
+HNDIKA,1,1,HND,IKA,Japan,Iran
+HNDPEN,1,1,HND,PEN,Japan,Malaysia
+JHBTPE,1,1,JHB,TPE,Malaysia,Taiwan
